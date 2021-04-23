@@ -1,2 +1,2 @@
-# TopplingBoxes
+# Angry birds game
 Toppling Boxes
